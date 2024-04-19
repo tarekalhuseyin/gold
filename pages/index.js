@@ -11,7 +11,7 @@ export default function Home() {
       <div className="z-10 flex  w-full h-full items-center justify-center ">
         <div className=" left-0 flex h-full w-full items-center relative justify-center ">
           <Image
-            src="/banner.png"
+            src="/banner.PNG"
             alt="Vercel Logo"
             className="dark:invert w-full h-full absolute "
             fill
